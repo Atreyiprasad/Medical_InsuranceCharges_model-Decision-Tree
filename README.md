@@ -17,34 +17,6 @@ This project applies **machine learning regression techniques** to predict insur
 This project focuses on predicting **medical insurance costs** using a **Decision Tree Regressor**.  
 The model learns patterns from demographic and lifestyle-related features such as age, BMI, smoking status, and region to estimate insurance charges.
 
----
-
-## 📌 Project Overview
-
-Medical insurance costs vary significantly based on multiple factors.  
-This project applies **machine learning regression techniques** to predict insurance charges accurately using structured data.
-
----
-
-## 🧠 Model Used
-
-- **Decision Tree Regressor**
-This project focuses on predicting **medical insurance costs** using a **Decision Tree Regressor**.  
-The model learns patterns from demographic and lifestyle-related features such as age, BMI, smoking status, and region to estimate insurance charges.
-
----
-
-## 📌 Project Overview
-
-Medical insurance costs vary significantly based on multiple factors.  
-This project applies **machine learning regression techniques** to predict insurance charges accurately using structured data.
-
----
-
-## 🧠 Model Used
-
-- **Decision Tree Regressor**
-- Supervised learning (Regression)
 
 ---
 
